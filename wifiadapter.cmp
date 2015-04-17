@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Friday 17 April 2015 03:04:03 PM IST
+
+BeginCmp
+TimeStamp = /5530D20C;
+Reference = U1;
+ValeurCmp = WVCC;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D29C;
+Reference = U2;
+ValeurCmp = RX;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D238;
+Reference = U3;
+ValeurCmp = RST;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D288;
+Reference = U4;
+ValeurCmp = GPIO0;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D1FD;
+Reference = U5;
+ValeurCmp = W;
+IdModule  = wifiadap;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D247;
+Reference = U6;
+ValeurCmp = CHPD;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D274;
+Reference = U7;
+ValeurCmp = GPIO2;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D256;
+Reference = U8;
+ValeurCmp = TX;
+IdModule  = my1in;
+EndCmp
+
+BeginCmp
+TimeStamp = /5530D265;
+Reference = U9;
+ValeurCmp = GNND;
+IdModule  = my1in;
+EndCmp
+
+EndListe
